@@ -3,7 +3,7 @@ TO DO: In this repo I practice the python assignments for the applied data scien
 
 ---
 # Plan
-Future plans for this repository include adding a sample data file and a [title](jupyter) notebook that interact with the file.
+Future plans for this repository include adding a sample data file and a [jupyter](jupyter) notebook that interact with the file.
 
  # About Me
 
