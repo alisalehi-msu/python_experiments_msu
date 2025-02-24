@@ -15,5 +15,5 @@ My data science competencies include:
 
 In order to test the inclusion of a photograph, I've added a cropped shot of a rocking horse in a park tooken by "myself":
 
-![alt text](wooden_horse_in_park.jpg)
+<!-- ![alt text](wooden_horse_in_park.jpg) -->
 <img src="wooden_horse_in_park.jpg" width="200" />
