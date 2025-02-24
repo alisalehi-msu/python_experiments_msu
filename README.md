@@ -2,7 +2,6 @@
 TO DO: In this repo I practice the python assignments for the applied data science course at MSU.
 
 ---
----
 # Plan
 Future plans for this repository include adding a sample data file and a jupyter notebook that interact with the file.
 
